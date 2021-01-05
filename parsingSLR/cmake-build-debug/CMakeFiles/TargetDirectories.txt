@@ -1,0 +1,3 @@
+D:/eBook/parsingSLR/cmake-build-debug/CMakeFiles/parsing.dir
+D:/eBook/parsingSLR/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/eBook/parsingSLR/cmake-build-debug/CMakeFiles/rebuild_cache.dir

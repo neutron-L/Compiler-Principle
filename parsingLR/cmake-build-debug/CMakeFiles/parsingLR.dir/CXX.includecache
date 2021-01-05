@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/eBook/parsingLR/main.cpp
+iostream
+-
+set
+-
+vector
+-
+stack
+-
+deque
+-
+queue
+-
+map
+-
+algorithm
+-
+iomanip
+-
+
